@@ -10,13 +10,14 @@ Deberán modificar este archivo ``README.md`` en dónde describan la documentaci
 
 Ejemplo de la estructura del repositorio a subir
 
-	tarea2-descriptores-locales-JuanPerez/
+	tarea2-descriptores-locales-Aosorio/
 	.
 	├── README.md
 	├── ch02-harris-example.py
-	├── ch02-ex1.py
+	├── prueba.py -- Ejecuta las funciones creadas en el archivo ch02-harris-example.py
 	├── data
-	│   ├── image.jpg
+	│   ├── harrys1.jpg
+	    ├── harrys2.jpg
   
 ## Recomendación para cargar archivos/imágenes
 
